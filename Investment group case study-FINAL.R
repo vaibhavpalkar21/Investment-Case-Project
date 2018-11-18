@@ -1,9 +1,3 @@
-# Group Name:PRSV-Pune-2018
-# Pradnya Paithankar
-# Dr. Rajendra Warke
-# Sameer Sinha
-# Vaibhav Palkar
-
 # Installing packages and loading libraries needed
 
 install.packages("tidyr")
